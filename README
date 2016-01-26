@@ -1,4 +1,3 @@
-This is your new Play application
-=================================
+An attempt at setting up my first own Play Application with Scala.
 
-This file will be packaged with your application, when using `activator dist`.
+Run application using `activator run` (activator installation required)
